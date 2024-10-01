@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋Hello! My name is Victor Hugo Fedatto, I'm Brazilian, a Law and Computer Science student. I'm always looking to learn new programming technologies.<br>📚Currently, I'm improving my skills in HTML, CSS, and Python, and working on personal projects. I have a passion for problem-solving and love challenges that involve logic, application development, and legal theory.<br>🌐I have a B2 level in English and an introductory level in German and Spanish.</p>
+<p align="left">👋Hello! My name is Victor Hugo Fedatto, I'm Brazilian, a Law and Computer Science student. I'm always looking to learn new programming technologies.<br>📚Currently, I'm improving my skills in HTML, CSS, and Python, and working on personal projects.</p>
 
 ###
 
