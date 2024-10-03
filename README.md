@@ -32,12 +32,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/VFedatto/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">🌐Languages I Speak:</h2>
 
 ###
